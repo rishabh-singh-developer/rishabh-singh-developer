@@ -38,6 +38,13 @@ Graduated: 2025 | CGPA: 8.2/10
 
 ---
 
+### Certifications
+
+**HTML, CSS, and Javascript for Web Developers**  
+Johns Hopkins University | Coursera | March 2024
+
+[Verify Certificate](https://www.coursera.org/verify/5C6BW8BLUFKC)
+
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/rishabh-singh-developer)
